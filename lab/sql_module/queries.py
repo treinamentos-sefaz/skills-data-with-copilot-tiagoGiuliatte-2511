@@ -1,4 +1,4 @@
-"""Módulo 1 — Geração de Queries SQL.
+"""Módulo 1 — Geração de Queries SQL. teste
 
 Complete cada função para que ela **retorne uma string SQL** (dialeto SQLite).
 As tabelas disponíveis são:
